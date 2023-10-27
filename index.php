@@ -4,13 +4,13 @@
 	
 		<?php
 		/*
-		- variables globales NO												X
-		- funciones en fichero aparte										X
-		- gestión de aciertos (puede haber +1 BINGO en la misma persona)	X
-		- que no se eliminen las bolas del bingo							X
-		- puede haber mas de un canto BINGO									X
-		- un numero X no puede repetirsre en los 3 cartones					X
-		- re-organizar los pasos porque están desordenados -> SEGUIR POR EL 6#
+		- variables globales NO													X
+		- funciones en fichero aparte											X
+		- gestión de aciertos (puede haber +1 BINGO en la misma persona)		X
+		- que no se eliminen las bolas del bingo								X
+		- puede haber mas de un canto BINGO										X
+		- un numero X no puede repetirsre en los 3 cartones						X
+		- re-organizar los pasos porque están desordenados -> SEGUIR POR EL 6# 	X
 		*/
 		
 		require "funciones.php";
